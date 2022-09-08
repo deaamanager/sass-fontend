@@ -1,1 +1,9 @@
-/* No CSS *//*# sourceMappingURL=style1.css.map */
+* {
+  padding: 0 auto;
+  margin: 0 auto;
+}
+
+h1 {
+  color: red;
+}
+/*# sourceMappingURL=style1.css.map */
